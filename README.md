@@ -1,6 +1,6 @@
 # Tokyo Olympics 2021 Analysis
 
-This project is an analysis of the Olympic Games held in Tokyo, Japan in 2021.
+This is a basic analysis of the Olympic Games held in Tokyo, Japan in 2021.
 
 The dataset has been taken from Kaggle and can be found [here](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo).
 
